@@ -5,9 +5,11 @@ module.exports = {
       extend: {
       colors:
       {
-        'backround-black': '#1D1C1D',
-        'about-black': '#2A292B',
+        //'backround-black': '#1D1C1D',
+        'backround-black': '#080808',
+        'about-black': '#222222',
         'about-white': '#e3d5ca',
+        'backround-white': '#d5bdaf',
       }
     },
   },

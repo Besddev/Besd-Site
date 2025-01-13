@@ -1,0 +1,1 @@
+import"./hoisted.CAedkB6c.js";document.addEventListener("DOMContentLoaded",()=>{const o=document.querySelector(".lanyardLoading"),n=document.querySelector(".lanyardImg"),e=document.querySelector(".lanyardMainImage");e.onload=()=>{o.style.display="none",n.style.display="block"},e.onerror=()=>{console.error("Failed to load Discord presence image.")}});
