@@ -8,9 +8,10 @@ const careers = [
     'semi-professional bug hunter', 
     'keyboard ninja', 
     'code wizard (without the wand)', 
-    'listener of epic playlists',
-    'best friend of c++ bugs'
+    '#RustOrBust',
+    'best friend of Rust bugs'
 ];
+
 
 let careerIndex = 0;
 let characterIndex = 0;
